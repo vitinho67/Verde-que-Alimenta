@@ -551,7 +551,7 @@ footer {
   }
 }
 
-/* Bloco especial para imagem com texto dentro de imagem-texto */
+/* Caso queira colocar descrição na imagem de cada topíco */
 .imagem-hover-texto {
   width: 30%;
   position: relative;
